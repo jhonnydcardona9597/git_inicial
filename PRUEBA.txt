@@ -1,0 +1,36 @@
+
+C:\Users\santi\Desktop>cd prueba
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\santi\Desktop>CD PRUEBA
+
+C:\Users\santi\Desktop\PRUEBA>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\santi\Desktop\PRUEBA>git init
+Initialized empty Git repository in C:/Users/santi/Desktop/PRUEBA/.git/
+
+C:\Users\santi\Desktop\PRUEBA>cd .git
+
+C:\Users\santi\Desktop\PRUEBA\.git>cd..
+
+C:\Users\santi\Desktop\PRUEBA>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\santi\Desktop\PRUEBA>
+
+C:\Users\santi\Desktop\terminal>git init
+Initialized empty Git repository in C:/Users/santi/Desktop/terminal/.git/
+
+C:\Users\santi\Desktop\terminal>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\santi\Desktop\terminal>
